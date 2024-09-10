@@ -1,6 +1,8 @@
-version: '3.3'
+version: '3.8'
 services:
   web:
     image: hello769778/my_tennis_club:latest
     ports:
       - "8000:8000"
+
+      
