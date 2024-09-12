@@ -3,5 +3,6 @@ services:
     image: hello769778/my_tennis_club:latest
     ports:
       - "8000:8000"
+    restart: always  
 
       
